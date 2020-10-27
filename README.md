@@ -5,7 +5,7 @@
 **NIM : 312010049** <br>
 **KELAS : TI.20.A.1** <br>
 **TUGAS : BAHASA PEMOGRAMAN** <br>
-
+ *STRING FORMAT 1*
 ### Pengertian print
 * Fungsi print("") berfungsi untuk *mencetak* atau *menampilkan objek* ke perangkat keluaran (layar) atau ke file teks. <br>
 > `print` <br>
