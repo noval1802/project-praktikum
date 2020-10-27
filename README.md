@@ -20,21 +20,25 @@
 
 * Bitwise adalah operator khusus untuk menangani operasi logika bilangan biner dalam bentuk bit.
 
-![contoh Bitwise](praktikum/code.png)
+![contoh Bitwise](praktikum/,.png)
 
 * Hasil Output 
 
-![output](praktikum/output.png)
+![output](praktikum/hsl.png)
 
 ### Aritmatika dalam bahasa pemograman 
-* Aritmatika Terdiri dari 6 Oprator Dan Symbol
-> `Penjumlahan (+)`
-> `Pengurangan (-)`
-> `Perkalian (*)`
-> `Pembagian (/)`
-> `Sisa Bagi (%)`
-> `Pemangkatan (**)`
+* Aritmatika Terdiri dari 6 Oprator Dan Symbol <br>
+> `Penjumlahan (+)` <br>
+> `Pengurangan (-)` <br>
+> `Perkalian (*)` <br>
+> `Pembagian (/)` <br>
+> `Sisa Bagi (%)` <br>
+> `Pemangkatan (**)` <br>
 
+* Jadi berhubung menggunakan pemangkatan mari kita lihat contoh di bawah
 
+![contoh Bitwise](praktikum/code.png)
 
+* Setelah di run
 
+![output](praktikum/output.png)
