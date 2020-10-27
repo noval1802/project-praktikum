@@ -69,11 +69,12 @@
 ### Penggunaan separtor
 
 * > `w, d, y, z = 10, 15, 20, 25` <br>
+* w 10 <br>
+* d 15 <br>
+* y 20 <br>
+* z 25 <br>
 
-
-
-
-
+![contoh](praktikum/wd.png)
 
 
 
