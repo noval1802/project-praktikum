@@ -41,7 +41,8 @@
 
 * Setelah di run
 
-![output](praktikum/output.png)
+![output](praktikum/output.png) <br>
+1 
 1
 1
 1
@@ -51,11 +52,11 @@
 1
 1
 1
-1
-# STRING FORMAT 2
+*STRING FORMAT 2*
 
+### Penggunaan END
 
+* Jadi Penggunaan **end** adalah, Untuk menyatukan semua variabel seperti contoh <br>
 
-
-
+![end](praktikum/abc.png)
 
