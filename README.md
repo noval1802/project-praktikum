@@ -12,7 +12,9 @@
 
 ![print](praktikum/print.png)
 
+* Menampilkan text di atas
 
+![mencetak hasil print](praktikum/outputprint.png)
 
 
 
