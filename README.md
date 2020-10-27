@@ -5,10 +5,11 @@
 **NIM : 312010049** <br>
 **KELAS : TI.20.A.1** <br>
 **TUGAS : BAHASA PEMOGRAMAN** <br>
- *STRING FORMAT 1*
+ *STRING FORMAT 1* <br>
+ *KOLOM 1* <br>
 ### Pengertian print
 * Fungsi print("") berfungsi untuk *mencetak* atau *menampilkan objek* ke perangkat keluaran (layar) atau ke file teks. <br>
-> `print` <br>
+* > `print` <br>
 
 ![print](praktikum/print.png)
 
@@ -28,12 +29,12 @@
 
 ### Aritmatika dalam bahasa pemograman 
 * Aritmatika Terdiri dari 6 Oprator Dan Symbol berikut **PENJELASAN DI BAWAH INI** <br>
-> `Penjumlahan (+)` <br>
-> `Pengurangan (-)` <br>
-> `Perkalian (*)` <br>
-> `Pembagian (/)` <br>
-> `Sisa Bagi (%)` <br>
-> `Pemangkatan (**)` <br>
+* > `Penjumlahan (+)` <br>
+* > `Pengurangan (-)` <br>
+* > `Perkalian (*)` <br>
+* > `Pembagian (/)` <br>
+* > `Sisa Bagi (%)` <br>
+* > `Pemangkatan (**)` <br>
 
 * Dan sekkarang kita coba semua oprator/symbol ditas
 
@@ -52,14 +53,37 @@
 1
 1
 1 <br>
-*STRING FORMAT 2*
+*KOLOM 2*
 
 ### Penggunaan (END)
 
 * Jadi Penggunaan **end** adalah, Untuk menyatukan semua variabel seperti contoh <br>
 
-![end](praktikum/abc.png)
+![end](praktikum/abc.png) <br>
 
-* setelah menjalankan 
+* setelah menjalankan <br>
 
-![hasil end](praktikum/cba.png)
+![hasil end](praktikum/cba.png) <br>
+
+
+### Penggunaan separtor
+
+* > `w, d, y, z = 10, 15, 20, 25` <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
