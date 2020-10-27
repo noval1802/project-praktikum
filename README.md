@@ -27,7 +27,7 @@
 ![output](praktikum/hsl.png)
 
 ### Aritmatika dalam bahasa pemograman 
-* Aritmatika Terdiri dari 6 Oprator Dan Symbol <br>
+* Aritmatika Terdiri dari 6 Oprator Dan Symbol berikut **PENJELASAN DI BAWAH INI** <br>
 > `Penjumlahan (+)` <br>
 > `Pengurangan (-)` <br>
 > `Perkalian (*)` <br>
@@ -42,3 +42,20 @@
 * Setelah di run
 
 ![output](praktikum/output.png)
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+# STRING FORMAT 2
+
+
+
+
+
+
