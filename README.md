@@ -5,9 +5,13 @@
 **NIM : 312010049** <br>
 **KELAS : TI.20.A.1** <br>
 **TUGAS : BAHASA PEMOGRAMAN** <br>
- *STRING FORMAT 1* <br>
- *KOLOM 1* <br>
+
+*KOLOM 1* <br>
+
+*STRING FORMAT 1* <br>
+ 
 ### Pengertian print
+
 * Fungsi print("") berfungsi untuk *mencetak* atau *menampilkan objek* ke perangkat keluaran (layar) atau ke file teks. <br>
 * > `print` <br>
 
@@ -43,17 +47,9 @@
 * Setelah di run
 
 ![output](praktikum/output.png) <br>
-1 
-1
-1
-1
-1
-1
-1
-1
-1
-1 <br>
-*KOLOM 2*
+
+
+# KOLOM 2
 
 ### Penggunaan (END)
 
@@ -61,7 +57,7 @@
 
 ![end](praktikum/abc.png) <br>
 
-* setelah menjalankan <br>
+* Setelah menjalankan <br>
 
 ![hasil end](praktikum/cba.png) <br>
 
@@ -76,11 +72,13 @@
 
 ![contoh](praktikum/wd.png)
 
+## Pengertian SEP
 
+* sep adalah pemisah(separator) yang berfungsi sebagai tanda pemisah antar objek yang dicetak. Defaultnya adalah tanda spasi. Seperti contoh di bawah
 
+![sep](praktikum/dz.png) <br>
 
-
-
+![hasil sep](praktikum/10.png)
 
 
 
