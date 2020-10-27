@@ -51,7 +51,7 @@
 1
 1
 1
-1
+1 <br>
 *STRING FORMAT 2*
 
 ### Penggunaan (END)
@@ -60,3 +60,6 @@
 
 ![end](praktikum/abc.png)
 
+* setelah menjalankan 
+
+![hasil end](praktikum/cba.png)
