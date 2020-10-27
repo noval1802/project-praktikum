@@ -54,7 +54,7 @@
 1
 *STRING FORMAT 2*
 
-### Penggunaan END
+### Penggunaan (END)
 
 * Jadi Penggunaan **end** adalah, Untuk menyatukan semua variabel seperti contoh <br>
 
