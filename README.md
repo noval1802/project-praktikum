@@ -35,7 +35,7 @@
 > `Sisa Bagi (%)` <br>
 > `Pemangkatan (**)` <br>
 
-* Jadi berhubung menggunakan pemangkatan mari kita lihat contoh di bawah
+* Dan sekkarang kita coba semua oprator/symbol ditas
 
 ![contoh Bitwise](praktikum/code.png)
 
