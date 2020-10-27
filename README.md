@@ -78,6 +78,8 @@
 
 ![sep](praktikum/dz.png) <br>
 
+* Dan bisa di liat setelah memasukan sep='+', dan di setiap angka ada +
+
 ![hasil sep](praktikum/10.png)
 
 
