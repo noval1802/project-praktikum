@@ -65,7 +65,7 @@ Keterangan : <br>
 1. Variable adalah sebuah wadah penyimpanan data pada program yang akan digunakan selama program itu berjalan. Yang berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
 
 2. Fungsi **input()** adalah untuk memasukan nilai dar layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter *(newline)* <br>
-![input] (hslnma.png)
+![input](praktikum/hslnma.png)
 
 
 
