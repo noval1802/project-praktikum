@@ -1,10 +1,6 @@
 # Tugas Ini Untuk Melengkapi Pertemuan 6 <br>
 ## Dan Menjelaskan Project <br>
 
-**NAMA : Abdul Aziz Anaoval** <br>
-**NIM : 312010049** <br>
-**KELAS : TI.20.A.1** <br>
-**TUGAS : BAHASA PEMOGRAMAN** <br>
 
 ## DAFTAR ISI <br>
 
@@ -16,7 +12,7 @@
 | 4. | Pertemuan 6 - Lab 2 | [temukan](#pertemuan-6---lab-2) |
 ### Pertemuan 5 - Latihan
 
-Pada pertemuan 5 bahasa pemograman, saya diberi soal untuk latihan oleh Dosen untuk membuat Aplikasi Biodata dengan python (Seperti gambar di bawah ini:)
+Pada pertemuan 5 bahasa pemograman, saya diberi soal untuk latihan oleh Dosen untuk membuat Aplikasi Biodata dengan python Seperti gambar dibawah <br>
 ![latihan pertemuan 5](praktikum/latihan5.png)
 Saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
 Berikut *source code* nya atau klik berikut ([latihan 5](tugas5.py)): <br>
@@ -254,19 +250,29 @@ Hasil string format 2 adalah : <br>
 * Konversi Nilai Variable
 Untuk pembahasan terakhir, kali ini akan myenyelesaikan tugas Lab 2 dari Dosen, yaitu Konversi Nilai Variable <br>
 Tugas yang di berikan oleh Dosen adalah seperti gambar dibawah ini atau bisa di temukan dengan link berikut : ([temukan](lab%202.py))
+``` python
+a=int(input("Masukkan Nilai A : "))
+b=int(input("Masukkan Nilai B : "))
+print("Variable A : ",a)
+print("Variable B : ",b)
+print("Hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b))
 
+#Konversi nilai variable
+a=int(a)
+b=int(b)
+print("Hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
+print("Hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
+```
+<br>
+Hasil dari source / code diatas : <br>
 
+![Output source diatas](praktikum/code.png)
+<br>
+<br>
 
-
-
-
-
-
-
-
-
-
-
+### ================= TAHNKS ================= <br>
+### ABDUL AZIZ ANAOVAL / 312010049 / TI.20.A.1 <br>
+### ==================🥀🥀🥀=================== <br>
 
 
 
