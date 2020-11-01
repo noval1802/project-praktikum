@@ -20,5 +20,5 @@ address=input()
 
 dob=2020-year
 
-print("\n\n Assalamu'alaikum. ")
+print("\n Assalamu'alaikum. ")
 print(f"Let me introduce my self. My name is {fullname}, but you can call me {nickname}. My NPM {npm}. I was born in {pob} and Iam {dob} years old. I am very glad if you want to invite my house in {address}. So don't forget to call me before with the number {phone}. \n\n Thank You ")

@@ -12,6 +12,8 @@
  
 | ----- | ----- | ---- |
 
+| 1. | Pertemuan 5 | [click here] |(#pertemuan - 5) 
+
 ## Pertemuan 5 - Latihan
 
 Pada pertemuan 5 bahasa pemograman, saya diberi soal untuk latihan oleh Dosen untuk membuat Aplikasi Biodata dengan python (Seperti gambar di bawah ini:)
@@ -85,8 +87,8 @@ Keterangan :
 2. Fungsi print() seperti dijelaskan pada point **Output** diatas
 Hasil source code diatas adalah seperti gambar dibawah ini : <br>
 
-
-
+![Output salam](praktikum/nma3.png)
+* Langkah terakhir menampilkan semua hasil
 
 
 
