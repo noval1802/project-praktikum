@@ -6,10 +6,64 @@
 **KELAS : TI.20.A.1** <br>
 **TUGAS : BAHASA PEMOGRAMAN** <br>
 
-*KOLOM 1* <br>
+### DAFTAR ISI <br>
 
-*STRING FORMAT 1* <br>
+| NO | Description | Link |
  
+| ----- | ----- | ---- |
+
+## Pertemuan 5 - Latihan
+
+Pada pertemuan 5 bahasa pemograman, saya diberi soal untuk latihan oleh Dosen untuk membuat Aplikasi Biodata dengan python (Seperti gambar di bawah ini:)
+![latihan pertemuan 5](praktikum/latihan5.png)
+Saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
+Berikut *source code* nya atau klik
+
+
+``` python
+print("Please enter your full name : ")
+fullname=input()
+print("Please enter nickname : ")
+nickname=input()
+print("Please enter your NPM : ")
+npm=int(input())
+print("Please enter your place of birth : ")
+pob=input()
+print("Please enter your date of birth : ")
+date=int(input())
+print("Pleae enter your month of birth : ")
+month=input()
+print("Please enter year of birth : ")
+year=int(input())
+print("Please enter your phone number : ")
+phone=int(input())
+print("Please enter your address : ")
+address=input()
+
+dob=2020-year
+
+print("\n\n Assalamu'alaikum. ")
+print(f"Let me introduce my self. My name is {fullname}, but you can call me {nickname}. My NPM {npm}. I was born in {pob} and Iam {dob} years old. I am very glad if you want to invite my house in {address}. So don't forget to call me before with the number {phone}. \n\n Thank You ")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Pengertian print
 
 * Fungsi print("") berfungsi untuk *mencetak* atau *menampilkan objek* ke perangkat keluaran (layar) atau ke file teks. <br>
