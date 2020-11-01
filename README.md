@@ -65,7 +65,25 @@ Keterangan : <br>
 1. Variable adalah sebuah wadah penyimpanan data pada program yang akan digunakan selama program itu berjalan. Yang berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
 
 2. Fungsi **input()** adalah untuk memasukan nilai dar layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter *(newline)* <br>
-![input](praktikum/hslnma.png)
+![input](praktikum/hslnma.png) <br>
+Pada gambar diatas, hasil dari inputan tersebut berwarna *putih* <br>
+* Untuk memasukan printah lain seperti *Nickname, NPM, Place of bircth, Date of bircth, Year of bircth, Phone number, and address* mengikuti perintah yang sama seperti memasukan *fullname* <br>
+
+* Untuk menghitung rumus umur saya menggunakan variable *DOB* yaitu 2020 (Tahun sekarang) dikurangi dengan Year of bircth, pada source code berikut : <br>
+``` python
+dob=2020-year
+```
+Pada syntax / source code diatas, saya menggunakan variable *dob* dimana untuk menghitung umur (variable **age** pada output), yaitu dengan rumus pada variable *dob=2020-year* <br>
+
+* Langkah kali ini saya akan menampilkan output yang diminta oleh Dosen. <br>
+Output pertama yang di minta Dosen adalah menampilkan salam, yaitu dengan mengetikkan syntax / source code berikut : 
+``` python
+print("\n\n Asalammualaikum.")
+```
+Keterangan :
+1. Fungsi **\n** pada source code diatas adalah untuk memberi baris baru / enter / *newline*
+2. Fungsi print() seperti dijelaskan pada point **Output** diatas
+Hasil source code diatas adalah seperti gambar dibawah ini : <br>
 
 
 
