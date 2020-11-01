@@ -146,5 +146,5 @@ print("Z")
 Hasil dari source code terseut seperti gambar di bawah ini: 
 ![Output END](praktikum/abcd.png)
 
-* Pengertian sepaktor
-Sepaktor adalah pemisah yang berfungsi sebagai tanda pemisah antar objek yang dicetak. Dafulatnya adalah tanda sepasi <br><br>
+* Pengertian separaktor
+Sepaktor adalah pemisah yang berfungsi sebagai tanda pemisah antar objek yang dicetak. Defaultnya adalah tanda sepasi <br><br>
