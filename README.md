@@ -220,7 +220,7 @@ Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10. Dengan out
 
 ![Operasi Aritmatika pangkat **](praktikum/pangkat.png)<br><br>
 
-2. **String Format 2**<br><br>
+2. **String Format 2** <br><br>
 Pada syntax / source code string format 2 akan menampilkan output berupa 2 output'an juga (Seoerti string format 1, yaitu kanan dan kiri) <br>
 Dengan ketentuan sebagai berikut : <br>
 > > Alignment, padding, dan precesion dengan **.format()** dalam kurung kurawal kita dapat menetapkan panjang bidang, rata kanan/kiri, parameter pembulatan dan banyak lagi. Contoh lain seperti berikut :
@@ -275,7 +275,7 @@ Hasil dari source / code diatas : <br>
 ### =================☕☕☕=================<br>
 
 
-
+ 
 
 
 
