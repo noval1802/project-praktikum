@@ -48,18 +48,19 @@ print("please your full name : ")
 ```
 source code fiatas berfungsi untuk mencetak hasil / output berupa " **please enter your full name :** ". <br>
  Untuk menampilkan output string, saya menggunakan *tanda petik dua* didalam fungsi print(), sedangkan jika saya ingin menampilkan output / hasil berupa angka / interger saya tidak perlu menggunakan *tanda petik dua*. Contohnya:
- ``` python 
+
+``` python 
  print("nama saya adalah ...")
 print(1801)
 ```
-<br>(Seperti gambar berikut ini <br>)
+<br>(Seperti gambar berikut ini) <br>
 ![Output fungsi print](praktikum/namaot.png) <br>
 * Untuk source code berikutnya adalah inputan atau membuat variable. Seperti syntax dibawah ini:
 
 ``` python
 fullname=input()
 ```
-Keterangan : <br>
+**Keterangan :** <br>
 1. Variable adalah sebuah wadah penyimpanan data pada program yang akan digunakan selama program itu berjalan. Yang berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
 
 2. Fungsi **input()** adalah untuk memasukan nilai dar layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter *(newline)* <br>
@@ -78,17 +79,19 @@ Output pertama yang di minta Dosen adalah menampilkan salam, yaitu dengan menget
 ``` python
 print("\n Asalammualaikum.")
 ```
-Keterangan :
+**Keterangan** : <br>
 1. Fungsi **\n** pada source code diatas adalah untuk memberi baris baru / enter / *newline*
 2. Fungsi print() seperti dijelaskan pada point **Output** diatas
 Hasil source code diatas adalah seperti gambar dibawah ini : <br>
 
 ![Output salam](praktikum/nma3.png)
 * Langkah terakhir menampilkan semua hasil dari inputan diatas. Dengan mengetikan source code berikut : <br>
+
 ``` python
 print(f"Let me introduce my self. My name is {fullname}, but you can call me {nickname}. My NPM {npm}. I was born in {pob} and Iam {dob} years old. I am very glad if you want to invite my house in {address}. So don't forget to call me before with the number {phone}. \n Thank You ")
 ```
-Keterangan : <br>
+
+**Keterangan** : <br>
 * Fungsi huruf **f** pada perintah *print(f"....")* adalah fungsi print atau bisa memudahkan program dalam mencetak statement dalam suatu baris dibandingkan dengan metode yang lama yaitu memisahkan string dan variable dengan symbol koma ( , ) atau plus ( + ) <br>
 * Sedangkan fungsi {} pada output tersebut menampilkan hasil variable <br>
 Hasil dari output tersebut seperti berikut : <br>
@@ -101,6 +104,7 @@ Hasil dari output tersebut seperti berikut : <br>
 
 Pada halaman ini (Tugas pertemuan 6 - lab 1) Saya di berikan tugas oleh Dosen yaitu mempelajari Operator Aritmatika menggunakan bahasa pemograman python. Berikut source yang di berikan oleh Dosen ([source lab 1](lab1.py))
 ![Pertemmuan 6 - lab 1](praktikum/lab1.png)
+
 ``` python
 #Penggunaan End
 print("A", end="")
@@ -212,6 +216,7 @@ print('{0:>3}{1:>16})'.format(10, 10 ** 10))
 ```
 <br>
 Saat ini saya akan menjelaskan satu persatu dari syntax yang diberikan oleh Dosen <br>
+
 1. **String format 1** <br>
 Pada syntax / source code string format 1 akan menampilkan output berupa 2 outputan. <br>
 Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan sebelah kanan akan menampilkan Oprasi Aritmatika Pangkat. <br>
@@ -250,6 +255,7 @@ Hasil string format 2 adalah : <br>
 * Konversi Nilai Variable
 Untuk pembahasan terakhir, kali ini akan myenyelesaikan tugas Lab 2 dari Dosen, yaitu Konversi Nilai Variable <br>
 Tugas yang di berikan oleh Dosen adalah seperti gambar dibawah ini atau bisa di temukan dengan link berikut : ([temukan](lab%202.py))
+![pertemuan 6 lab 2](praktikum/Lab2.png)
 ``` python
 a=int(input("Masukkan Nilai A : "))
 b=int(input("Masukkan Nilai B : "))
